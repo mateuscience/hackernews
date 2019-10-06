@@ -1,6 +1,6 @@
 # Hackernews Web Scrapper
 
-This application scrape the website Hacker News, display and summarize the top posts in the terminal, 
+This application scrape the website [Hacker News](https://news.ycombinator.com/), display and summarize the top posts in the terminal, 
 based on the user request (up to 100 posts). The command line application outputs the data in JSON format. 
 
 The application is executed with the command:
